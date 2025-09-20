@@ -1,0 +1,17 @@
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/bin/Debug/net8.0/MushroomSupplier.Application.deps.json
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/bin/Debug/net8.0/MushroomSupplier.Application.dll
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/bin/Debug/net8.0/MushroomSupplier.Application.pdb
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/bin/Debug/net8.0/MushroomSupplier.Core.dll
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/bin/Debug/net8.0/MushroomSupplier.Infrastructure.dll
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/bin/Debug/net8.0/MushroomSupplier.Core.pdb
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/bin/Debug/net8.0/MushroomSupplier.Infrastructure.pdb
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/obj/Debug/net8.0/MushroomSupplier.Application.csproj.AssemblyReference.cache
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/obj/Debug/net8.0/MushroomSupplier.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/obj/Debug/net8.0/MushroomSupplier.Application.AssemblyInfoInputs.cache
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/obj/Debug/net8.0/MushroomSupplier.Application.AssemblyInfo.cs
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/obj/Debug/net8.0/MushroomSupplier.Application.csproj.CoreCompileInputs.cache
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/obj/Debug/net8.0/Mushroom.B9AE8BDA.Up2Date
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/obj/Debug/net8.0/MushroomSupplier.Application.dll
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/obj/Debug/net8.0/refint/MushroomSupplier.Application.dll
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/obj/Debug/net8.0/MushroomSupplier.Application.pdb
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Application/obj/Debug/net8.0/ref/MushroomSupplier.Application.dll

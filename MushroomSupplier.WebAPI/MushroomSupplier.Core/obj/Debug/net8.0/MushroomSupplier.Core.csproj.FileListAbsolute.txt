@@ -1,0 +1,11 @@
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Core/bin/Debug/net8.0/MushroomSupplier.Core.deps.json
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Core/bin/Debug/net8.0/MushroomSupplier.Core.dll
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Core/bin/Debug/net8.0/MushroomSupplier.Core.pdb
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Core/obj/Debug/net8.0/MushroomSupplier.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Core/obj/Debug/net8.0/MushroomSupplier.Core.AssemblyInfoInputs.cache
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Core/obj/Debug/net8.0/MushroomSupplier.Core.AssemblyInfo.cs
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Core/obj/Debug/net8.0/MushroomSupplier.Core.csproj.CoreCompileInputs.cache
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Core/obj/Debug/net8.0/MushroomSupplier.Core.dll
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Core/obj/Debug/net8.0/refint/MushroomSupplier.Core.dll
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Core/obj/Debug/net8.0/MushroomSupplier.Core.pdb
+/Users/picsartacademy/Desktop/MushroomSupplier/src/MushroomSupplier.WebAPI/MushroomSupplier.Core/obj/Debug/net8.0/ref/MushroomSupplier.Core.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MushroomSupplier.Core/1.0.0": {
+        "runtime": {
+          "MushroomSupplier.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MushroomSupplier.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
